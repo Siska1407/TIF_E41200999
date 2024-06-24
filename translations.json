@@ -1,0 +1,86 @@
+{
+  "apel": {
+    "id": "Apel",
+    "en": "Apple"
+  },
+  "anggur": {
+    "id": "anggur",
+    "en": "grape"
+  },
+  "alpukat": {
+    "id": "Alpukat",
+    "en": "Avocado"
+  },
+  "belimbing": {
+    "id": "Belimbing",
+    "en": "Starfruit"
+  },
+  "buah naga": {
+    "id": "Buah Naga",
+    "en": "Dragonfruit"
+  },
+  "delima": {
+    "id": "Delima",
+    "en": "Pomegranate"
+  },
+  "durian": {
+    "id": "Durian",
+    "en": "Durian"
+  },
+  "jeruk": {
+    "id": "Jeruk",
+    "en": "Orange"
+  },
+  "kiwi": {
+    "id": "Kiwi",
+    "en": "Kiwi"
+  },
+  "lemon": {
+    "id": "Lemon",
+    "en": "Lemon"
+  },
+  "mangga": {
+    "id": "Mangga",
+    "en": "Mango"
+  },
+  "manggis": {
+    "id": "Manggis",
+    "en": "mangosteen"
+  },
+  "melon": {
+    "id": "Melon",
+    "en": "Melon"
+  },
+  "nanas": {
+    "id": "Nanas",
+    "en": "Pineapple"
+  },
+  "pir": {
+    "id": "Pir",
+    "en": "Pear"
+  },
+  "pisang": {
+    "id": "Pisang",
+    "en": "Banana"
+  },
+  "rambutan": {
+    "id": "Rambutan",
+    "en": "Rambutan"
+  },
+  "salak": {
+    "id": "Salak",
+    "en": "Snakefruit"
+  },
+  "semangka": {
+    "id": "Semangka",
+    "en": "Watermelon"
+  },
+  "srikaya": {
+    "id": "Srikaya",
+    "en": "Srikaya"
+  },
+  "stroberi": {
+    "id": "Stroberi",
+    "en": "Strawberry"
+  }
+}
